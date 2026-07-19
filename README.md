@@ -2,12 +2,12 @@
 
 ## 📖 Descrição
 
-Projeto desenvolvido em Java para praticar os conceitos básicos da Programação Orientada a Objetos (POO). O programa recebe dois números informados pelo usuário, cria um objeto da classe `Soma` e calcula o resultado utilizando um método.
+Projeto desenvolvido em Java para praticar os fundamentos da Programação Orientada a Objetos (POO). O programa recebe dois números inteiros informados pelo usuário, cria um objeto da classe `Soma` e calcula o resultado utilizando um método.
 
 ## 🚀 Funcionalidades
 
-- Recebe dois números inteiros.
-- Calcula a soma utilizando uma classe separada.
+- Recebe dois números inteiros informados pelo usuário.
+- Calcula a soma por meio da classe `Soma`.
 - Exibe o resultado no console.
 
 ## 🛠️ Tecnologias
@@ -23,9 +23,9 @@ Projeto desenvolvido em Java para praticar os conceitos básicos da Programaçã
 - Objetos
 - Construtores
 - Métodos
-- `this`
-- `return`
-- `Scanner`
+- Palavra-chave `this`
+- Retorno de métodos (`return`)
+- Entrada de dados com `Scanner`
 
 ## 💻 Exemplo
 
